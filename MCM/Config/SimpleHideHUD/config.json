@@ -1,0 +1,15 @@
+{
+  "modName": "SimpleHideHUD",
+  "displayName": "Hide HUD",
+  "minMcmVersion": 9,
+  "cursorFillMode": "topToBottom",
+  "content": [
+    {
+      "id": "toggleHud",
+      "text": "Toggle HUD",
+      "type": "keymap",
+      "help": "Hotkey to toggle the HUD",
+      "ignoreConflicts": false
+    }
+  ]
+}

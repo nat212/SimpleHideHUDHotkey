@@ -1,0 +1,15 @@
+{
+  "modName": "SimpleHideHUD",
+  "keybinds": [
+    {
+      "id": "toggleHud",
+      "desc": "Toggle HUD",
+      "action": {
+        "type": "CallFunction",
+        "form": "SimpleHideHUD.esp|D62",
+        "scriptName": "SimpleHideHUD",
+        "function": "Toggle"
+      }
+    }
+  ]
+}
